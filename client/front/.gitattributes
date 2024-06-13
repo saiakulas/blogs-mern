@@ -1,0 +1,27 @@
+
+
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly set text files to use LF
+*.cjs     text eol=lf
+*.gitignore text eol=lf
+*.md      text eol=lf
+*.html    text eol=lf
+*.json    text eol=lf
+*.js      text eol=lf
+*.css     text eol=lf
+*.jsx     text eol=lf
+
+
+
+
+
+
+
+
+
+
+
+
+
